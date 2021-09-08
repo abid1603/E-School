@@ -1,0 +1,140 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Urbanist', sans-serif;
+}
+.header{
+    background-color: #cef8ce;
+    height: 700px;
+}
+.navbar{
+    margin-top: 20px;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.nav-link{
+    color: black;
+    font-size: 23px;
+}
+.navbar-nav a{
+    margin-top: 5px;
+   margin-right: 10px;
+   transition: 0.5s;
+}
+.navbar-nav a:hover{
+    background-color: #21B573;
+    border-radius: 20px;
+    color: white;
+}
+.image .ai-image{
+    width: 700px;
+
+}
+.info h6{
+    color: red;
+}
+.info h1{
+    font-weight: bolder;
+    font-size: 60px;
+}
+.color-green{
+    color: green;
+}
+.info p{
+    font-size: 20px;
+    color: black;
+}
+.info h6, .info h1, .info p, .info button{
+    margin: 15px;
+}
+.btn{
+    border-radius: 15px;
+}
+.cat1 img, .cat2 img, .cat3 img, .cat4 img{
+    width: 100px;
+}
+.cat1 h4, .cat2 h4, .cat3 h4, .cat4 h4{
+    font-weight: bolder;
+}
+.cat1{
+    background-color: #cef8ce;
+    border-radius: 10px;
+    height: 280px;
+}
+.cat1:hover{
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.cat2{
+    background-color: #cef8ce;
+    border-radius: 10px;
+    height: 280px;
+}
+.cat2:hover{
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.cat3{
+    background-color: #cef8ce;
+    border-radius: 10px;
+    height: 280px;
+}
+.cat3:hover{
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.cat4{
+    background-color: #cef8ce;
+    border-radius: 10px;
+    height: 280px;
+}
+.cat4:hover{
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.card-body h5{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.card-body p{
+    font-size: 20px;
+}
+.btn{
+    background-color: #18bd18;
+}
+.card img{
+    width: 380px;
+}
+.position{
+    margin: 0px 15px;
+    margin-top: 15px;
+}
+footer{
+    margin-top: 50px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.last-info img{
+    width: 220px;
+}
+.last-info p{
+    margin-left: 60px;
+}
+.bottom{
+    background-color: rgb(46, 42, 42);
+    color: white;
+    height: 400px;
+}
+.bottom h3{
+    font-weight: bolder;
+}
+.item{
+    margin-top: 80px;
+}
+#abid{
+    text-align: center;
+    margin-bottom: 10px;
+}
